@@ -11,7 +11,7 @@ Git:
     git clone https://github.com/serenity-bdd/serenity-junit-starter.git
     cd serenity-junit-starter
 
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
+Or simply [download a zip](https://github.com/serenity-dojo/todomvc-exercise/archive/master.zip) file.
 
 ### Use Maven
 

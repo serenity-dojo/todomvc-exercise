@@ -1,0 +1,4 @@
+tasks                    ,filterType,completedTasks,visibleTasks
+Feed the cat|Walk the dog,Completed ,Feed the cat  ,Feed the cat
+Feed the cat|Walk the dog,Active    ,Feed the cat  ,Walk the dog
+Feed the cat|Walk the dog,All       ,Feed the cat  ,Feed the cat|Walk the dog
